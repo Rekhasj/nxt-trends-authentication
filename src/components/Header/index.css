@@ -1,0 +1,31 @@
+.nav-container {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+.nav-card {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 90%;
+}
+
+.nav-list {
+  display: flex;
+  justify-content: space-around;
+  list-style-type: none;
+}
+.nav-link {
+  text-decoration: none;
+  color: #475569;
+}
+li {
+  padding-left: 20px;
+}
+.logout-button {
+  color: #ffffff;
+  background-color: #0967d2;
+  padding: 5px 10px;
+  border: none;
+  border-radius: 5px;
+}

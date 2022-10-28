@@ -1,0 +1,31 @@
+/* Write your CSS code here */
+.home-card {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  width: 90%;
+  padding-top: 20px;
+  padding-bottom: 50px;
+}
+.home-details-card {
+  width: 50%;
+}
+.home-page-img {
+  height: 300px;
+  width: 300px;
+}
+.home-heading {
+  color: #1e293b;
+  font-family: 'Roboto';
+}
+.home-details {
+  color: #475569;
+  font-family: 'Roboto';
+}
+.shop-button {
+  color: #ffffff;
+  padding: 10px 20px;
+  background-color: #0967d2;
+  border-radius: 5px;
+  border: none;
+}
